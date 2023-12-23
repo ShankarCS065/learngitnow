@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.krashkrosh748199.learngit'
+    namespace 'com.krashkrosh748199.myapplication'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.krashkrosh748199.learngit"
+        applicationId "com.krashkrosh748199.myapplication"
         minSdk 24
         targetSdk 33
         versionCode 1

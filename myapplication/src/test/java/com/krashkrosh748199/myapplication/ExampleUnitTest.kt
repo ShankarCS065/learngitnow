@@ -1,4 +1,4 @@
-package com.krashkrosh748199.learngit
+package com.krashkrosh748199.myapplication
 
 import org.junit.Test
 
